@@ -107,7 +107,7 @@ run().catch(console.dir);
 
 
 app.get('/',(req,res) =>{
-    res.send('SERVER IS RUNNING NOW NODE CRUD')
+    res.send('SERVER IS RUNNING NOW  NODE WITH  CRUD')
 })
 
 app.listen(port, () =>{
